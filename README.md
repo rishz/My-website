@@ -1,2 +1,2 @@
 # My-website
-My personal website
+My contribution to the personal website
