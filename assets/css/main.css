@@ -21,6 +21,11 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
+	a:hover{
+		box-shadow:1px 10px 20px black;
+	
+	}
+	
 
 	body {
 		line-height: 1;
